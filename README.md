@@ -11,10 +11,6 @@ Bacharel em Relações Internacionais, atualmente em transição de carreira par
 - Amante do cinema! Perfil do [Letterboxd](https://letterboxd.com/iarecippo/).
 - Abaixo deixo os repositórios de alguns projetos que desenvolvi (sozinho ou em equipe) e dos quais me orgulho, dá uma olhada e me conta o que achou!
 
-!['s GitHub stats](https://github-readme-stats.vercel.app/api?username=igorarecippo&theme=dark&show_icons=true)
-![image](https://media.giphy.com/media/14uQ3cOFteDaU/giphy.gif)
-
-
 ### 🛠 Principais habilidades técnicas:
 ![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![image](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
@@ -24,6 +20,10 @@ Bacharel em Relações Internacionais, atualmente em transição de carreira par
 ![image](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![image](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 ![image](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+
+![image](https://media.giphy.com/media/14uQ3cOFteDaU/giphy.gif)
+
+!['s GitHub stats](https://github-readme-stats.vercel.app/api?username=igorarecippo&theme=dark&show_icons=true)
 
 ### 🔗 Contato:
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/igorarecippo/)
