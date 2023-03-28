@@ -21,7 +21,7 @@ Bacharel em Relações Internacionais, atualmente em transição de carreira par
 ![image](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 ![image](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
-![image](https://media.giphy.com/media/14uQ3cOFteDaU/giphy.gif)
+<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/14uQ3cOFteDaU/giphy.gif">
 
 !['s GitHub stats](https://github-readme-stats.vercel.app/api?username=igorarecippo&theme=dark&show_icons=true)
 
