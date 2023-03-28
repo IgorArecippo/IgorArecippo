@@ -22,7 +22,7 @@ Bacharel em Relações Internacionais, atualmente em transição de carreira par
 ![image](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 ![image](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
-<p><img align="left" width="380" src="https://github-readme-stats.vercel.app/api?username=igorarecippo&theme=dark&show_icons=true" alt="igorarecippo" /></p>
+<p><img align="left" width="300" src="https://github-readme-stats.vercel.app/api?username=igorarecippo&theme=dark&show_icons=true" alt="igorarecippo" /></p>
 
 [![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=igorarecippo&hide=html&layout=compact&theme=dark&show)](https://github.com/anuraghazra/github-readme-stats)
 
