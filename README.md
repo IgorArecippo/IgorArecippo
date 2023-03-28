@@ -23,7 +23,7 @@ Bacharel em Relações Internacionais, atualmente em transição de carreira par
 
 <img align="right" alt="Coding" width="250" src="https://media.giphy.com/media/14uQ3cOFteDaU/giphy.gif">
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=igorarecippo&theme=dark&show_icons=true" alt="igorarecippo" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=igorarecippo&theme=dark&show_icons=true" alt="igorarecippo" /></p>
 
 
 ### 🔗 Contato:
