@@ -2,11 +2,10 @@
 # Oi, sou o Igor! 
 
 
+<img align="right" alt="Coding" width="250" src="https://media.giphy.com/media/14uQ3cOFteDaU/giphy.gif">
 ### 👤 Sobre mim
 Sou  de Maceió e estou aprofundando meus conhecimentos de desenvolvimento web Full-Stack.
 Bacharel em Relações Internacionais, atualmente em transição de carreira para a área da tecnologia! Adoro trabalhar em equipe, compartilhar conhecimentos e aprender com novas experiências.
-
-<img align="right" alt="Coding" width="250" src="https://media.giphy.com/media/14uQ3cOFteDaU/giphy.gif">
 
 - Desenvolvedor Front-End [certificado](https://www.credential.net/c9203935-6e76-46c8-bd05-39feece61101#gs.tr2w3b).
 - Atualmente cursando desenvolvimento Back-End na [Trybe](https://www.linkedin.com/school/betrybe/).
@@ -23,7 +22,10 @@ Bacharel em Relações Internacionais, atualmente em transição de carreira par
 ![image](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 ![image](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
-<p><img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=igorarecippo&theme=dark&show_icons=true" alt="igorarecippo" /></p>
+<p><img align="left" width="380" src="https://github-readme-stats.vercel.app/api?username=igorarecippo&theme=dark&show_icons=true" alt="igorarecippo" /></p>
+
+[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=igorarecippo&hide=html&layout=compact&theme=dark&show)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 ### 🔗 Contato:
