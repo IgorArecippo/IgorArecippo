@@ -3,6 +3,7 @@
 
 
 <img align="right" alt="Coding" width="250" src="https://media.giphy.com/media/14uQ3cOFteDaU/giphy.gif">
+
 ### 👤 Sobre mim
 <p style: 'text-align:left'>Sou  de Maceió e estou aprofundando meus conhecimentos de desenvolvimento web Full-Stack.
 Bacharel em Relações Internacionais, atualmente em transição de carreira para a área da tecnologia! Adoro trabalhar em equipe, compartilhar conhecimentos e aprender com novas experiências.</p>
